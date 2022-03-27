@@ -1,2 +1,2 @@
 # test
-nuxt_website to create HeadlessCMS
+test Nuxt.js website to create HeadlessCMS
