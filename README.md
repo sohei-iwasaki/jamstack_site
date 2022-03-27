@@ -5,3 +5,6 @@
 Nuxt.js
 
 # CMS
+
+# ホスティング
+Netlifyで個人公開
